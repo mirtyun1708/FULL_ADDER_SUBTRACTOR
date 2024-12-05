@@ -1,3 +1,6 @@
+NAME: MIRTYUNJAY S
+REG NO: 24013065
+
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
